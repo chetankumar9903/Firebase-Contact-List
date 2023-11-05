@@ -39,7 +39,7 @@ Firebase Contact App is a React application that allows users to manage contacts
 
 - `src/`
   - `components/`: React components for the application.
-  - `config/`: Firebase configuration file.(It is in gitignore so create it yourself)
+  - `config/firebase.js`: Firebase configuration file.(It is in gitignore so create it yourself and in firebase.js paste the code you get from firebase cloud during setup )
   - `hooks/`: A useState() file which is used multiple times.
  
   
